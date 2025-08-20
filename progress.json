@@ -61,5 +61,14 @@
       "You have not made any commits yet!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1755693334.551302,
+    "completed_at": 1755693335.362057,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
   }
 ]
