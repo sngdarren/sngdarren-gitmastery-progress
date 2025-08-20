@@ -25,5 +25,14 @@
       "Great work setting up a public remote repository!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1755692010.216386,
+    "completed_at": 1755692011.478902,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
   }
 ]
